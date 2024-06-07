@@ -55,7 +55,7 @@ if(isset($_POST['submit'])){
 ?>
 
 <section class="form-container">
-
+<!-- Login ngisi password dll -->
    <form action="" method="post">
       <h3>Login now</h3>
       <p><span></span>  <span></span></p>
